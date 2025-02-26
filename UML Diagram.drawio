@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nWddZsHLZyRrroF07stJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="nWddZsHLZyRrroF07stJ-1">
+        <mxCell id="nWddZsHLZyRrroF07stJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;startArrow=oval;" edge="1" parent="1" source="nWddZsHLZyRrroF07stJ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="810" as="targetPoint" />
             <Array as="points">
@@ -20,13 +20,13 @@
         <mxCell id="nWddZsHLZyRrroF07stJ-1" value="&lt;ul&gt;&lt;li&gt;patient_Id (PK)&lt;/li&gt;&lt;li&gt;first_name&lt;/li&gt;&lt;li&gt;last_name&lt;/li&gt;&lt;li&gt;DOB&lt;/li&gt;&lt;li&gt;gender&lt;/li&gt;&lt;li&gt;address&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nWddZsHLZyRrroF07stJ-2" value="&lt;b&gt;patientInfo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="nWddZsHLZyRrroF07stJ-2" value="&lt;b&gt;patient&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-3" value="&lt;ul&gt;&lt;li&gt;dentist_Id (PK)&lt;/li&gt;&lt;li&gt;first_name&lt;/li&gt;&lt;li&gt;last_name&lt;/li&gt;&lt;li&gt;addressOfPractice&lt;/li&gt;&lt;li&gt;specialty&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nWddZsHLZyRrroF07stJ-4" value="&lt;b&gt;dentistInfo&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="nWddZsHLZyRrroF07stJ-4" value="&lt;b&gt;dentist&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="500" y="510" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;608&quot; data-start=&quot;591&quot;&gt;appointment_Id&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; (PK)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;appointmentDate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;location&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;appointment status&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;patientId (FK → Patient.patientId)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dentistId (FK → Dentist.dentistId)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
         <mxCell id="nWddZsHLZyRrroF07stJ-6" value="&lt;b&gt;appointment&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nWddZsHLZyRrroF07stJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=diamond;endFill=0;startArrow=diamond;startFill=0;" edge="1" parent="1" source="nWddZsHLZyRrroF07stJ-8" target="nWddZsHLZyRrroF07stJ-4">
+        <mxCell id="nWddZsHLZyRrroF07stJ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="nWddZsHLZyRrroF07stJ-8" target="nWddZsHLZyRrroF07stJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-37" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nWddZsHLZyRrroF07stJ-36">
@@ -95,7 +95,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWddZsHLZyRrroF07stJ-26" value="" style="endArrow=diamondThin;html=1;startArrow=diamondThin;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;entryX=-0.007;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nWddZsHLZyRrroF07stJ-3">
+        <mxCell id="nWddZsHLZyRrroF07stJ-26" value="" style="endArrow=oval;html=1;startArrow=oval;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;entryX=-0.007;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nWddZsHLZyRrroF07stJ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="594.5" as="sourcePoint" />
             <mxPoint x="500" y="595" as="targetPoint" />
@@ -111,7 +111,7 @@
             <mxPoint x="-20" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nWddZsHLZyRrroF07stJ-30" value="" style="endArrow=ERoneToMany;html=1;endSize=12;startArrow=ERmany;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="nWddZsHLZyRrroF07stJ-30" value="" style="endArrow=diamondThin;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="270" as="sourcePoint" />
             <mxPoint x="430" y="270" as="targetPoint" />
