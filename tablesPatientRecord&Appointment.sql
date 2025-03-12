@@ -44,7 +44,7 @@ VALUES
 ('2025-03-18 11:15:00', '456 Smile St, Charlotte, NC', 'Scheduled', 5, 2, 4),
 ('2025-03-19 13:00:00', '123 Dental Ave, Charlotte, NC', 'Scheduled', 4, 1, 5),
 ('2025-03-19 13:00:00', '456 Smile St, Charlotte, NC', 'Scheduled', 5, 2, 6),
-('2025-03-21 13:00:00', '654 Cavity Blvd, Charlotte, NC', 'Scheduled', 4, 5, 7);
+('2025-03-21 13:00:00', '654 Cavity Blvd, Charlotte, NC', 'Cancelled', 4, 5, 7);
 
 
 SELECT * FROM patientRecord;
