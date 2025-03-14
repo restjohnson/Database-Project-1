@@ -22,7 +22,7 @@ CREATE TABLE dentist (
 
 
 
-INSERT INTO demographics (first_name, last_name, DOB, gender, address, phone, email)
+INSERT INTO demographics (first_name, last_name, DOB, gender, address, phone, email, insurance_number)
 VALUES
     ('John', 'Doe', '1990-05-15', 'Male', '123 Main St, Charlotte, NC', '704-555-1234', 'john.doe@example.com', '123-4567-8910'),
     ('Jane', 'Smith', '1985-08-22', 'Female', '456 Elm St, Charlotte, NC', '704-555-5678', 'jane.smith@example.com', '012-3456-7891'),
