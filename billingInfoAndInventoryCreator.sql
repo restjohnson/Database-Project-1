@@ -2,8 +2,6 @@ USE EMR_DB;
 
 CREATE TABLE IF NOT EXISTS billingInfo (
 	bill_ID int AUTO_INCREMENT PRIMARY KEY,
-    first_name varchar(255),
-    last_name varchar(255),
     amount int,
     paymentStatus ENUM('paid', 'unpaid'),
     patient_id int,
