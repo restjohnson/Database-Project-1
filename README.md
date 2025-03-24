@@ -13,8 +13,13 @@ Applied Database Project 1
 
 
 Rest Johnson (801379538) 
+
+
 Matthew Wallace (801237297)
- Nick Kanampiu (80119381)
+
+
+Nick Kanampiu (80119381)
+ 
 Akash Anandakumaran (801430015)
 
 
