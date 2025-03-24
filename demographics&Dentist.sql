@@ -6,7 +6,7 @@ CREATE TABLE demographics (
     gender VARCHAR(10) NOT NULL,                -- Gender
     address VARCHAR(100) NOT NULL,              -- Address
     phone VARCHAR(15) NOT NULL,                 -- Phone number
-    email VARCHAR(100)                          -- Email
+    email VARCHAR(100),                         -- Email
     insurance_number VARCHAR(100) NOT NULL      -- Insurance number
 );
 
