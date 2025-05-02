@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="874" dy="1304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="1213" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         <mxCell id="nWddZsHLZyRrroF07stJ-1" value="&lt;ul&gt;&lt;li&gt;patient_Id (PK)&lt;/li&gt;&lt;li&gt;first_name&lt;/li&gt;&lt;li&gt;last_name&lt;/li&gt;&lt;li&gt;DOB&lt;/li&gt;&lt;li&gt;gender&lt;/li&gt;&lt;li&gt;address&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="150" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;endArrow=open;endFill=0;" edge="1" parent="1" source="nWddZsHLZyRrroF07stJ-2" target="dZWFhonzVec3YqzFGpt1-4">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;endArrow=open;endFill=0;" parent="1" source="nWddZsHLZyRrroF07stJ-2" target="dZWFhonzVec3YqzFGpt1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-2" value="&lt;b&gt;demographics&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -61,10 +61,10 @@
           <mxGeometry x="610" y="130" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-10" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1052&quot; data-start=&quot;1042&quot;&gt;item_Id&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(PK)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;itemName&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;quantityAvailable&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="850" y="240" width="140" height="140" as="geometry" />
+          <mxGeometry x="800" y="240" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-11" value="&lt;b&gt;inventory&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="850" y="230" width="140" height="20" as="geometry" />
+          <mxGeometry x="800" y="230" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nWddZsHLZyRrroF07stJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=open;endFill=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="nWddZsHLZyRrroF07stJ-12" target="nWddZsHLZyRrroF07stJ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -161,31 +161,160 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6D1cZrsWFt69_wXMQNJA-1" value="&lt;ul&gt;&lt;li&gt;treatment&lt;/li&gt;&lt;li&gt;cost&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="690" y="580" width="140" height="140" as="geometry" />
+          <mxGeometry x="110" y="-60" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6D1cZrsWFt69_wXMQNJA-2" value="&lt;b&gt;treatmentCost&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="690" y="570" width="140" height="20" as="geometry" />
+          <mxGeometry x="110" y="-70" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-4" value="&lt;ul&gt;&lt;li&gt;user_id&lt;/li&gt;&lt;li&gt;Username&lt;/li&gt;&lt;li&gt;PasswordHash&lt;/li&gt;&lt;li&gt;RoleID&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-4" value="&lt;ul&gt;&lt;li&gt;user_id&lt;/li&gt;&lt;li&gt;Username&lt;/li&gt;&lt;li&gt;PasswordHash&lt;/li&gt;&lt;li&gt;RoleID&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="-70" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-5" value="&lt;b&gt;User&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-5" value="&lt;b&gt;User&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="-80" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;endArrow=open;endFill=0;startArrow=diamondThin;startFill=0;" edge="1" parent="1" source="dZWFhonzVec3YqzFGpt1-6" target="dZWFhonzVec3YqzFGpt1-4">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;endArrow=open;endFill=0;startArrow=diamondThin;startFill=0;" parent="1" source="dZWFhonzVec3YqzFGpt1-6" target="dZWFhonzVec3YqzFGpt1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-6" value="&lt;ul&gt;&lt;li&gt;RoleID (PK)&lt;/li&gt;&lt;li&gt;RoleName&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-6" value="&lt;ul&gt;&lt;li&gt;RoleID (PK)&lt;/li&gt;&lt;li&gt;RoleName&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="615" y="-70" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-7" value="&lt;b&gt;Role&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-7" value="&lt;b&gt;Role&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="615" y="-80" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-13" value="&lt;ul&gt;&lt;li&gt;log_id (PK&lt;/li&gt;&lt;li&gt;user_id&lt;/li&gt;&lt;li&gt;operation_type (procedure)&lt;/li&gt;&lt;li&gt;timestamp&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-13" value="&lt;ul&gt;&lt;li&gt;log_id (PK)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;diagnosis&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;treatment&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;visitDetails&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;patient_Id (FK)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dentist_Id (FK)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="10" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="dZWFhonzVec3YqzFGpt1-14" value="&lt;b&gt;audit_log&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="dZWFhonzVec3YqzFGpt1-14" value="&lt;b&gt;recordLog&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="840" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-1" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dZWFhonzVec3YqzFGpt1-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="210" as="sourcePoint" />
+            <mxPoint x="920" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-2" value="1..." style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" connectable="0" vertex="1" parent="0oIK8ZIplCtzW0FHYQsz-1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-3" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="0oIK8ZIplCtzW0FHYQsz-1">
+          <mxGeometry x="-0.6" y="-7" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-4" value="&lt;ul&gt;&lt;li&gt;log_Id (PK)&lt;/li&gt;&lt;li&gt;first_name&lt;/li&gt;&lt;li&gt;last_name&lt;/li&gt;&lt;li&gt;DOB&lt;/li&gt;&lt;li&gt;gender&lt;/li&gt;&lt;li&gt;address&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;li&gt;patient_id(FK)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry y="120" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-5" value="&lt;b&gt;recordLog&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry y="110" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-6" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0oIK8ZIplCtzW0FHYQsz-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="195" as="sourcePoint" />
+            <mxPoint x="300" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-7" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" connectable="0" vertex="1" parent="0oIK8ZIplCtzW0FHYQsz-6">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-8" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="0oIK8ZIplCtzW0FHYQsz-6">
+          <mxGeometry x="-0.6" y="-7" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-11" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;sketch=1;curveFitting=1;jiggle=2;exitX=1.002;exitY=0.448;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0oIK8ZIplCtzW0FHYQsz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="490" as="sourcePoint" />
+            <mxPoint x="300" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-12" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" connectable="0" vertex="1" parent="0oIK8ZIplCtzW0FHYQsz-11">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-13" value="1..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="0oIK8ZIplCtzW0FHYQsz-11">
+          <mxGeometry x="-0.6" y="-7" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-14" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;log_id(PK)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;appointmentDate&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;location&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;appointment status&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;608&quot; data-start=&quot;591&quot;&gt;appointment_Id&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; (FK &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;→ appointment.&lt;br&gt;appointment_Id&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;patient_Id (FK → Patient.patient_Id)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dentist_Id (FK → Dentist.dentist_Id)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;record_Id (FK)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-15" value="&lt;b&gt;appointmentLog&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry y="390" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-16" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="180" y="441" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-18" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="474.5" as="sourcePoint" />
+            <mxPoint x="990" y="474.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-19" value="&lt;div&gt;1...&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" connectable="0" vertex="1" parent="0oIK8ZIplCtzW0FHYQsz-18">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-20" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="0oIK8ZIplCtzW0FHYQsz-18">
+          <mxGeometry x="-0.6" y="-7" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-21" value="&lt;ul&gt;&lt;li&gt;log_Id (PK)&lt;/li&gt;&lt;li&gt;first_name&lt;/li&gt;&lt;li&gt;last_name&lt;/li&gt;&lt;li&gt;addressOfPractice&lt;/li&gt;&lt;li&gt;specialty&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;li&gt;dentist_id (FK --&amp;gt; dentist.dentist_id)&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="410" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-22" value="&lt;b&gt;dentistLog&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-23" value="&lt;ul&gt;&lt;li&gt;log_Id(PK)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;amount&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;paymentStatus&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bill_id (FK -&amp;gt; billingInfo.bill_id) &lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;patient_Id (FK)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;appointment_Id (FK)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="580" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-24" value="&lt;b&gt;billingLog&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="570" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-28" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="640" as="sourcePoint" />
+            <mxPoint x="740" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-29" value="1..." style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" connectable="0" vertex="1" parent="0oIK8ZIplCtzW0FHYQsz-28">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-30" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="0oIK8ZIplCtzW0FHYQsz-28">
+          <mxGeometry x="-0.6" y="-7" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-31" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0oIK8ZIplCtzW0FHYQsz-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="309.5" as="sourcePoint" />
+            <mxPoint x="1040" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-32" value="1..." style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" connectable="0" vertex="1" parent="0oIK8ZIplCtzW0FHYQsz-31">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-33" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="0oIK8ZIplCtzW0FHYQsz-31">
+          <mxGeometry x="-0.6" y="-7" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-34" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1052&quot; data-start=&quot;1042&quot;&gt;log_Id&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(PK)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;itemName&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;quantityAvailable&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;item_Id(FK -&amp;gt; inventory.item_Id)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="240" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0oIK8ZIplCtzW0FHYQsz-35" value="&lt;b&gt;inventoryLog&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="230" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
